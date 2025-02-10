@@ -1,0 +1,26 @@
+# Unity gitignore template
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio
+.vs/
+*.user
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.pdb
+*.cache
+*.ilk
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.pidb
+*.booproj
+*.svd
